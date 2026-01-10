@@ -1,4 +1,6 @@
-# 🎨 Krita Mastery Vault: 60-Day Digital Art Roadmap
+![Krita Art Protocol Banner](05-RESOURCES/banner.png)
+
+# 🎨 Krita Art Protocol: 60-Day Digital Art Roadmap
 
 > A structured, Obsidian-based training system for intermediate artists returning to digital drawing. Focused on Anime, Semi-Realism, and Advanced Lighting using Krita & Linux.
 
