@@ -53,7 +53,7 @@ This vault is my commitment—structured, tracked, and integrated into the place
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/krita-mastery-vault.git
+   git clone git@github.com:ind4skylivey/krita-art-protocol.git
    ```
 2. **Open in Obsidian:**
    - Launch Obsidian.
